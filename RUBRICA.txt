@@ -16,4 +16,4 @@ Implementaciones:
 -(1.00) Cambiar el animation Blueprint del third person para añadir 
 	la animación de impacto (se ejecuta con el 2)
 -(0.50) Crear 2 triggers (items recolectables y una plataforma que si el player está
- 	quieto dentro de ella se ejecuta la secuencia realizada)
+ 	quieto dentro de ella se ejecuta la secuencia realizada).
