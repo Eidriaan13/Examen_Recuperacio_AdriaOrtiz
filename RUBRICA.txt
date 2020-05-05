@@ -1,0 +1,19 @@
+Examen Recuperación Adrià Ortiz Gertrudix
+
+Implementaciones:
+
+-(0.50) Terrain con montañas, texturizado y con arboles y cesped
+-(0.25) 2 entradas creadas con Actions (con el 1 se inicia la secuencia 
+	y con el 2 se le hace HIT al player)
+-(1.00) Secuencia creada que enciende y apaga luces, se hace de noche y se vuelve a hacer de dia y 
+	aplica dos animaciones a un personaje
+-(0.25) Se usa el LevelBlueprint para probar funcionalidades como iniciar la secuencia con el 1,
+	darle un golpe al player con el 2 o controlar una plataforma.
+-(1.00) Creación de Hud que muestra la posicion del player en todo momento y 
+	la cantidad de Items recogidos durante 1 segundo después de cogerlos
+-(1.00) 3 animaciones para el Hud (cambio de color en la X, Y, y Z; cambio de tamaño 
+	al coger una moneda y cambiar entre visible e invisible la info de las monedas)
+-(1.00) Cambiar el animation Blueprint del third person para añadir 
+	la animación de impacto (se ejecuta con el 2)
+-(0.50) Crear 2 triggers (items recolectables y una plataforma que si el player está
+ 	quieto dentro de ella se ejecuta la secuencia realizada)
